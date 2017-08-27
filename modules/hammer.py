@@ -6,7 +6,7 @@
 # only for legal purpose
 
 
-from queue import Queue
+from Queue import Queue
 import time, sys, socket, threading, urllib2, random
 
 usage = ["[?] Dos module usage: dos set target www.google.com", "[?] Dos module usage: dos start"]
